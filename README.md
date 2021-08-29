@@ -1,5 +1,6 @@
 # AWS-Default-of-Credit-Card-Clients
-Use Case:
+## Use Case:
+
 • Input: excel sheet with historical customers data.
 
 • Required: Using Amazon SageMaker, develop a model to tell if client will default the payment or not.
